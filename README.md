@@ -141,3 +141,26 @@ All extracted metrics are compiled into a structured dataframe with:
 This table enables downstream statistical analysis and reproducibility.
 
 ---
+
+##  Installation
+
+To get started with this project, follow the steps below:
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/raadsr15/brain-connectivity-graph-pipeline.git
+cd brain-connectivity-graph-pipeline
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Train the model and evaluate model performance
+   
+```bash
+jupyter notebook brain-connectivity-graph-pipeline.ipynb
+```
