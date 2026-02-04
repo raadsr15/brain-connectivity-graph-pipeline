@@ -1,3 +1,7 @@
+![lucid-origin_An_abstract_visualization_of_a_brain-inspired_network_emerging_from_darkness _Fi-0](https://github.com/user-attachments/assets/438adf46-439d-4988-a81d-96142e79c7b6)
+
+
+
 # 🧠 Resting-State fMRI Functional Connectivity Analysis & Graph Verification
 
 This repository implements a complete and reproducible pipeline for resting-state fMRI functional connectivity analysis and brain network verification using graph-theoretic methods. The goal of the project is to construct stable subject-level brain networks from multivariate fMRI time series and to evaluate the consistency of network properties across independent train and test datasets.
