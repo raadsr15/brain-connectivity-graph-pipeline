@@ -49,10 +49,12 @@ This results in one FC matrix per subject:
 ## 🖼️ Functional Connectivity Matrices
 
 ### Train Set FC Matrices
-<img src="images/fc_train_matrices.png" width="100%"/>
+<img width="1490" height="886" alt="image" src="https://github.com/user-attachments/assets/8312cb9e-3181-4302-944d-ffb2161a09b5" />
+
 
 ### Test Set FC Matrices
-<img src="images/fc_test_matrices.png" width="100%"/>
+<img width="1490" height="886" alt="image" src="https://github.com/user-attachments/assets/1fba75bf-b100-43c0-85e6-89a9b889e9a5" />
+
 
 *Each heatmap represents pairwise functional coupling between 116 brain regions.*
 
@@ -78,10 +80,12 @@ This sparsification ensures comparability across subjects and avoids density-dri
 ## 🧩 Brain Functional Connectivity Networks
 
 ### Train Set Networks (Top 10% Edges)
-<img src="images/train_brain_networks.png" width="100%"/>
+<img width="1790" height="985" alt="image" src="https://github.com/user-attachments/assets/527b1c12-5079-418a-910a-4ab121e9c439" />
+
 
 ### Test Set Networks (Top 10% Edges)
-<img src="images/test_brain_networks.png" width="100%"/>
+<img width="1790" height="985" alt="image" src="https://github.com/user-attachments/assets/34c40c71-d2e9-40d3-b1a9-9a7131e511b9" />
+
 
 *Each node corresponds to a brain region; edges represent strong functional interactions.*
 
@@ -110,7 +114,8 @@ Distances are defined as the inverse of edge weights to compute shortest paths.
 To verify the **stability and reproducibility** of extracted brain network properties, metrics from train and test sets are statistically compared.
 
 ### 📦 Distribution Comparison
-<img src="images/train_test_metrics_boxplot.png" width="100%"/>
+<img width="1189" height="396" alt="image" src="https://github.com/user-attachments/assets/e50bce5d-4385-4462-ac2e-b574a7aeb3a3" />
+
 
 - Boxplots compare:
   - Strength
